@@ -25,7 +25,7 @@ In order to create a site-specific, entirely procedurally generated building, we
 * **Growing the functions** to their desired area and floor height.
 * **Placing exterior assets** such as the roof vegetation, floors, different wall types and windows, etc.
 * Creating visuals of example plans, sections, elevations and three dimensional renders.
-
+![](Project_Flowchart.png)
 
 ## Team Members
 
@@ -34,3 +34,5 @@ Jolt Wiersma - 4719379
 Arthur Masure - 5158737
 
 Michelle A. Menkiti - 5160138
+
+![](Presentation/../PRESENTATIONS/FINAL/Pandora%20-%20Final%20Poster.jpg)
