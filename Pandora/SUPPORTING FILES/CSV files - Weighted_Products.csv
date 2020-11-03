@@ -1,0 +1,14 @@
+Functions,Sunlight,Sky-View,Noise,Proximity to edge,Proximity to path,Proximity to N,Proximity to E,Proximity to S,Proximity to W,Func_id
+Living Units,0.8,0.5,0.01,0.1,0.6,0.1,0.7,0.9,0.8,0
+Library,0.9,0.2,0.01,0.8,0.8,0.2,0.8,0.7,0.5,1
+Coworking Spaces,0.6,0.8,0.2,0.4,0.2,0.5,0.5,0.5,0.5,2
+Start-up Offices,0.5,0.7,0.4,0.6,0.5,0.7,0.9,0.6,0.1,3
+Fab-labs/Workshops,0.3,0.4,0.8,0.8,0.1,0.5,0.5,0.5,0.5,4
+Community Centre/Co-cooking,0.5,0.6,0.3,0.1,0.3,0.5,0.5,0.5,0.5,5
+Entrance Hall,0.6,0.7,0.9,0.1,0.9,0.9,0.9,0.9,0.9,6
+Indoor Market,0.7,0.3,0.6,0.3,0.8,0.7,0.9,0.9,0.7,7
+Gym,0.3,0.4,0.8,0.7,0.6,0.5,0.9,0.7,0.9,8
+Restaurant,0.5,0.8,0.5,0.7,0.7,0.6,0.7,0.7,0.8,9
+Cafe/Pub,0.4,0.7,0.8,0.8,0.7,0.5,0.7,0.8,0.7,10
+Arcade,0.01,0.01,0.9,0.5,0.3,0.9,0.2,0.1,0.8,11
+Cinema,0.01,0.01,0.9,0.6,0.6,0.9,0.9,0.7,0.8,12

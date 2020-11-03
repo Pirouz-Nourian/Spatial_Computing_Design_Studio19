@@ -1,0 +1,13 @@
+@teachers:
+
+Before opening the file, the calculation of the 
+object will take about 3 minutes. Unfortunately
+the assest are not remembering there initial
+values. An instruction how to open them is placed
+in the assets file.
+
+Thanks for reading,
+
+Victor
+Ida
+Job
