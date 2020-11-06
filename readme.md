@@ -23,35 +23,78 @@ indicators, and the preferences of the prospective inhabitants into a
 building.
 
 ## People
-
-
-| **Project**                | **Students**                                               |
-| -------------------------- | ---------------------------------------------------------- |
-| **[Oasis]**                | Jonas Althuis                                              |
-|                            | Adrian Wong                                                |
-|                            | Hannah van der Sluijs                                      |
-|                            | Benjamin Laagewaard                                        |
-|                            |                                                            |
-| **[Pandora]**              | Jolt Wiersma                                               |
-|                            | Arthur Masure                                              |
-|                            | Michelle A. Menkiti                                        |
-|                            |                                                            |
-| **[Urban Green City]**     | Victor Wernet                                              |
-|                            | Job De Vogel                                               |
-|                            | Ida Bølling Kongsted                                       |
-|                            |                                                            |
-| **[ZoHo]**                 | Jordy van Eijk                                             |
-|                            | Bram van den Berg                                          |
-|                            |                                                            |
-|                            | **Instructors**                                            |
-| **Responsible Instructor** | [Dr.ir. P. Nourian](mailto:p.nourian@tudelft.nl)           |
-| **Instructors**            | [Ir. HansHoogenboom](mailto:J.J.J.G.Hoogenboom@tudelft.nl) |
-| **Instructors**            | [Ir. Shervin Azadi](mailto:S.Azadi-1@tudelft.nl)           |
-
-[Oasis]:https://github.com/shervinazadi/spatial_computing_19/tree/master/Oasis
-[Pandora]:https://github.com/shervinazadi/spatial_computing_19/tree/master/Pandora
-[Urban Green City]:https://github.com/shervinazadi/spatial_computing_19/tree/master/Urban_Green_City
-[ZoHo]:https://github.com/shervinazadi/spatial_computing_19/tree/master/ZoHo
+<table width=100%>
+    <thead >
+        <tr class="header">
+            <th colspan="2">Instruction Team</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Course Coordinator</td>
+            <td><a href="mailto:p.nourian@tudelft.nl">Dr. Ir. P. Nourian</a></td>
+        </tr>
+        <tr>
+            <td>Instructors</td>
+            <td>
+                <a href="mailto:p.nourian@tudelft.nl">Dr. Ir. Pirouz Nourian</a> (TU Delft, Design Informatics, PZN)<br>
+                <a href="mailto:S.Azadi-1@tudelft.nl">Ir. Shervin Azadi</a> (TU Delft, Design Informatics, SAZ)<br>
+                <a href="mailto:J.J.J.G.Hoogenboom@tudelft.nl">Ir. Hans Hoogenboom</a> (TU Delft, Design Informatics-HHG)<br>
+            </td>
+        </tr>
+        <tr>
+            <td>Responsible</td>
+            <td><a href="mailto:i.s.sariyildiz@tudelft.nl">Prof. Dr. Ir. Sevil Sariyildiz</a> (TU Delft, Design Informatics, SSZ)</td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr class="header">
+            <th colspan="2">Students</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://github.com/shervinazadi/spatial_computing_19/tree/master/Oasis">Oasis</a>
+            </td>
+            <td>
+                Jonas Althuis <br>
+                Adrian Wong <br>
+                Hannah van der Sluijs <br>
+                Benjamin Laagewaard
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/shervinazadi/spatial_computing_19/tree/master/Pandora">Pandora</a>
+            </td>
+            <td>
+                Jolt Wiersma<br>
+                Arthur Masure<br>
+                Michelle A. Menkiti
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/shervinazadi/spatial_computing_19/tree/master/Urban_Green_City">Urban Green City</a>
+            </td>
+            <td>
+                Victor Wernet <br>
+                Job De Vogel <br>
+                Ida Bølling Kongsted
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/shervinazadi/spatial_computing_19/tree/master/ZoHo">ZoHo</a>
+            </td>
+            <td>
+                Jordy van Eijk <br>
+                Bram van den Berg
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ## Theme
 
@@ -60,7 +103,7 @@ scores. We define a rulebook, specify the moves in the game; devise
 automatic scoring mechanisms; and let designers or prospective
 inhabitants play the design game almost as LEGO, Minecraft, and Sims .
 
-![](_course_info/pic_01.png)
+![Course Image](_course_info/pic_01.png)
 
 ## Design Challenge
 
@@ -73,7 +116,7 @@ young graduates (starters), and assisted living. The complex also
 provides communal/public facilities, almost as a collective. The program
 of requirements lists the spaces below:
 
--   Location: Rotterdam, [The block between Vijverhofstraat,
+- Location: Rotterdam, [The block between Vijverhofstraat,
     Zomerhofstraat, Schoterbosstraat, and
     Teilingerstraat.](https://goo.gl/maps/8PM9Xu1LLL72)\
     The location is split into compulsory and optional development,
@@ -86,32 +129,32 @@ of requirements lists the spaces below:
     be integrated into the design, without losing their original
     function.
 
--  Housing:
-    -   Student Housing 80 units
-    -   Assisted Living 30 units
-    -   Starter Housing 100 units
--   Communal Spaces:
-    -   Underground Parking (minimum of 0.5 parking lots per apartment)
-    -   Vegetation (minimum 30% of the plot)
-    -   Workshops/Fab-Labs/Co-working Space and Start-up Offices
-    -   Library + Cinematheque + Café/Pub + \[pinball\] Arcade
-    -   Co-cooking/Restaurant
-    -   Community Centre
-    -   Shop (grocery, tools and crafts)
-    -   Gym
+- Housing:
+  - Student Housing 80 units
+  - Assisted Living 30 units
+  - Starter Housing 100 units
+- Communal Spaces:
+  - Underground Parking (minimum of 0.5 parking lots per apartment)
+  - Vegetation (minimum 30% of the plot)
+  - Workshops/Fab-Labs/Co-working Space and Start-up Offices
+  - Library + Cinematheque + Café/Pub + \[pinball\] Arcade
+  - Co-cooking/Restaurant
+  - Community Centre
+  - Shop (grocery, tools and crafts)
+  - Gym
 
 ## Design Goals (quantitative & qualitative):
 
--   Maximum Multi-scale Modularity (Qualitative)
--   Excellent Ergonomics (Qualitative)
--   Keeping at least the same amount of housing units as before
+- Maximum Multi-scale Modularity (Qualitative)
+- Excellent Ergonomics (Qualitative)
+- Keeping at least the same amount of housing units as before
     (Quantitative)
--   Not blocking direct light for neighbour buildings (Quantitative)
--   Max solar gain potential (optional, Quantitative)
--   Max greenery (Quantitative)
--   Min noise (Quantitative)
--   Social integration (Qualitative)
--   Rational spectra of privacy and community (Qualitative)
+- Not blocking direct light for neighbour buildings (Quantitative)
+- Max solar gain potential (optional, Quantitative)
+- Max greenery (Quantitative)
+- Min noise (Quantitative)
+- Social integration (Qualitative)
+- Rational spectra of privacy and community (Qualitative)
 
 ## Activities & Deliverables
 
@@ -119,29 +162,23 @@ of requirements lists the spaces below:
 The thematic activities for the weeks are (marked with colours and tags
 on the schedules):
 
--   A1) **Planning**: Program of Requirements & Network (adjacency and
+- A1) **Planning**: Program of Requirements & Network (adjacency and
     connectivity requirements)
--   A2) **Configuring**: Circulation Manifold
--   A3) **Massing**: Coloured Voxel Clouds
--   **Midterm** (you will work on these items from day one, and will
+- A2) **Configuring**: Circulation Manifold
+- A3) **Massing**: Coloured Voxel Clouds
+- **Midterm** (you will work on these items from day one, and will
     present them informally in a pin-up fashion):
     {problem formulation, a plan, a configuration, a mass-void
     composition, a flowchart, a clay model, code snippets & procedural
     models (submitted to our GitLab repo), and a live demo of the
     computational models}
--   A4) **Forming**: Spatial Modules (functional spaces designed on a
+- A4) **Forming**: Spatial Modules (functional spaces designed on a
     grid) fitted into the voxel cloud, finalized form, all models
     cleaned and documented.
--   **Final** (you will present as a group):
-    -   A presentation about your design process (an update on midterm
-        presentation)
-    -   an animation of the \[interactive\] computational design
-        process.
-    -   an A2 poster including) and the followings:
-        {architectural diagrams (space planning \[network\],
-        configuration \[circulation manifold\], massing \[voxel
-        cloud\]), functional modules, plans 1:200, sections 1:100, urban
-        plan 1:500, and renderings}
+- **Final** (you will present as a group):
+  - A presentation about your design process (an update on midterm presentation)
+  - an animation of the \[interactive\] computational design process.
+  - an A2 poster including) and the followings: {architectural diagrams (space planning \[network\], configuration \[circulation manifold\], massing \[voxel cloud\]), functional modules, plans 1:200, sections 1:100, urban plan 1:500, and renderings}
 
 ## Syllabus
 
@@ -153,30 +190,31 @@ the context of architectural design.
 ### Theory
 
 The subjects taught in this course are the essentials of:
--   Spatial Mathematics: Linear Algebra, Geometry, Topology, and Graph
-    Theory
--   Computer Graphics (Boundary Representations and Raster
-    Representations)
--   Programming in Python [BK-7083] & C++ [BK-7084]
--   Space Planning (i.e. configurative design, determining the 'Space
-    Syntax')
--   Grammatical Design (e.g. L-Systems, Graph Grammars, Design Games)
--   Evidence-Based Design (e.g. Pattern Language)
--   Housing Design (goals, ergonomics, standards, design codes, best
+
+- Spatial Mathematics: Linear Algebra, Geometry, Topology, and Graph Theory
+- Computer Graphics (Boundary Representations and Raster Representations)
+- Programming in Python [BK-7083] & C++ [BK-7084]
+- Space Planning (i.e. configurative design, determining the 'Space Syntax')
+- Grammatical Design (e.g. L-Systems, Graph Grammars, Design Games)
+- Evidence-Based Design (e.g. Pattern Language)
+- Housing Design (goals, ergonomics, standards, design codes, best
     practices)
 
 ### Practice
 
 The practical skills learnt in this minor are the essentials of:
--   Modern CAD (Parametric and Procedural Design)
--   Simulation (light)
--   Generative Design (using Cellular Automata, Agent-Based Modelling,
-    Particle Systems, Combinatorial Design)
--   Technical Communication (Problem Definition, Problem Formulation,
-    Flowchart Drawing, Pseudocode Writing)
--   Infographics
--   Programming (within Rhino & Grasshopper using Python [BK-7083] and
+
+- Modern CAD (Parametric and Procedural Design)
+- Simulation (light)
+- Generative Design (using Cellular Automata, Agent-Based Modelling, Particle Systems, Combinatorial Design)
+- Technical Communication (Problem Definition, Problem Formulation, Flowchart Drawing, Pseudocode Writing)
+- Infographics
+- Programming (within Rhino & Grasshopper using Python [BK-7083] and
     coding C++ modules [BK-7084])
+
+### License
+
+This work is dual-licensed under MIT and 4.0-CC-BY. The Software is licensed under MIT and all other contents are licensed under 4.0-CC-BY. Each student project has different authors, please refer to AUTHOR file for detailed list of authors per project.
 
 ---
 <!-- Links -->
