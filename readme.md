@@ -31,7 +31,7 @@ building.
     </thead>
     <tbody>
         <tr>
-            <td>Course Coordinator</td>
+            <td>Responsible Instructor</td>
             <td><a href="mailto:p.nourian@tudelft.nl">Dr. Ir. P. Nourian</a></td>
         </tr>
         <tr>
@@ -43,8 +43,8 @@ building.
             </td>
         </tr>
         <tr>
-            <td>Responsible</td>
-            <td><a href="mailto:i.s.sariyildiz@tudelft.nl">Prof. Dr. Ir. Sevil Sariyildiz</a> (TU Delft, Design Informatics, SSZ)</td>
+            <td>Minor Coordinator</td>
+            <td>Prof. Dr. Ir. Sevil Sariyildiz (TU Delft, Design Informatics, SSZ)</td>
         </tr>
     </tbody>
     <thead>
