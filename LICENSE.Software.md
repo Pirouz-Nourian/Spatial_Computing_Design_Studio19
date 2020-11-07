@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2019 [Spatial Computing, Computational Design Studio 2019 Contributors](https://github.com/Pirouz-Nourian/spatial_computing_19/blob/master/AUTHORS.md)
+Copyright (c) 2019 Spatial Computing, [Computational Design Studio 2019 Contributors](https://github.com/Pirouz-Nourian/spatial_computing_19/blob/master/AUTHORS.md)
 (
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of the software part of this project, which includes codes, code snippets, procedural workflows, and their combination, to deal
