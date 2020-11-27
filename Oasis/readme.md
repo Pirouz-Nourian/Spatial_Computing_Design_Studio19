@@ -1,3 +1,5 @@
-![](final_poster.jpg)
+
 ### Process
 ![](process.gif)
+### Final Poster
+![](final_poster.jpg)
