@@ -1,5 +1,8 @@
 # [BK-7083](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=52471): Spatial Computing: Computational Design Studio: 2019-20
 
+[![DOI](https://zenodo.org/badge/309652846.svg)](https://zenodo.org/badge/latestdoi/309652846)
+
+
 ## Introduction
 
 Spatial Computing (BK-MI-197, 15 ECTS) is offered as a minor degree
