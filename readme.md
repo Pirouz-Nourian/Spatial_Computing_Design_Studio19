@@ -43,9 +43,9 @@ building.
         <tr>
             <td>Instructors</td>
             <td>
-                <a href="mailto:p.nourian@tudelft.nl">Dr. Ir. Pirouz Nourian</a> (TU Delft, Design Informatics, PZN)<br>
-                <a href="mailto:S.Azadi-1@tudelft.nl">Ir. Shervin Azadi</a> (TU Delft, Design Informatics, SAZ)<br>
-                <a href="mailto:J.J.J.G.Hoogenboom@tudelft.nl">Ir. Hans Hoogenboom</a> (TU Delft, Design Informatics-HHG)<br>
+                <a href="https://www.tudelft.nl/en/staff/p.nourian">Dr. Ir. Pirouz Nourian</a> (TU Delft, Design Informatics, PZN)<br>
+                <a href="https://www.tudelft.nl/staff/s.azadi-1/">Ir. Shervin Azadi</a> (TU Delft, Design Informatics, SAZ)<br>
+                <a href="https://www.tudelft.nl/staff/j.j.j.g.hoogenboom/">Ir. Hans Hoogenboom</a> (TU Delft, Design Informatics-HHG)<br>
             </td>
         </tr>
         <tr>
