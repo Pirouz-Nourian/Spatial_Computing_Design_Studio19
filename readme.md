@@ -25,6 +25,9 @@ the transformation of a site, a program of requirements, key performance
 indicators, and the preferences of the prospective inhabitants into a
 building.
 
+[![IMAGE ALT TEXT HERE](https://github.com/Pirouz-Nourian/earthy_20/blob/master/_course_info/Earthy3.0_Video_Thumbnail.PNG)](https://youtu.be/I0GAzDlTc9E)
+
+
 ## People
 <table width=100%>
     <thead >
