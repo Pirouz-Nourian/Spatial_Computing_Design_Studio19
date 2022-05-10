@@ -48,7 +48,10 @@ building.
                 <a href="https://www.tudelft.nl/staff/j.j.j.g.hoogenboom/">Ir. Hans Hoogenboom</a> (TU Delft, Design Informatics-HHG)<br>
             </td>
         </tr>
-       
+        <tr>
+            <td>Minor Coordinator</td>
+            <td>Prof. Dr. Ir. Sevil Sariyildiz (TU Delft, Design Informatics, SSZ)</td>
+        </tr>
     </tbody>
     <thead>
         <tr class="header">
